@@ -1,0 +1,390 @@
+===============================================================
+= JOB       : RISCVMSTAR10#NLFRDAILYFEED[(0700 11/25/17),(0AAAAAAAAACYMOFX)].NLFR_ACSFEED
+= USER      : METNET\\maestromet            
+= JCLFILE   : perl D:\\StarTrak\\StarTrak\\MaestroScripts\\acsfeed\\pl_acsfeed.pl
+= Job Number: 39924
+= Sat 11/25/17 09:00:09 Eastern Standard Time
+===============================================================
+Tivoli Workload Scheduler (Windows)/JOBLNCH 9.2.0.01 (20141211)
+Installed for user \"METNET\\mst_met\".
+Locale LANG set to the following: \"en\"
+TWS for Windows NT/JOBMANRC.CMD 9.2 
+Mail::Sender is deprecated and you should look to Email::Sender instead at D:\\StarTrak\\StarTrak\\MaestroScripts\\acsfeed\\pl_acsfeed.pl line 53.
+Start Script                      Sat Nov 25 09:00:11 2017
+Set Environment                   Sat Nov 25 09:00:11 2017
+Set Date                          Sat Nov 25 09:00:11 2017
+FTP Login 1                       Sat Nov 25 09:00:11 2017
+
+FTP Get                           Sat Nov 25 09:00:11 2017
+D:\\StarTrak\\StarTrak\\MaestroScripts\\ACSfeed\\JavaPrograms\\ACSFeed\\ACSFeed.txt 
+
+FTP End Get                       Sat Nov 25 09:00:13 2017
+
+Remove Orignal                    Sat Nov 25 09:00:13 2017
+Remove Complete                   Sat Nov 25 09:00:13 2017
+
+Begin Java                        Sat Nov 25 09:00:13 2017
+
+Creating Date 
+
+SOH ACS Feed - The start time/date is: Sat Nov 25 09:00:15 EST 2017
+
+Loaded the Properties from [D:\\StarTrak\\StarTrak\\MaestroScripts\\ACSFeed\\JavaPrograms\\ACSFeed\\properties\\ACSFeed.prop]:
+log4j:WARN No appenders could be found for logger (com.metlife.us.ins.sys.startrak.acs.feed.ACSCmts).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Last Applicant Committed:  215235976
+Last Applicant Committed:  263551066
+Last Applicant Committed:  272924507
+Last Applicant Committed:  272927507
+Last Applicant Committed:  341761307
+Last Applicant Committed:  411319710
+verifyTrueDuplicate=0 Kicks out
+verifyTrueDuplicate=0 Kicks out
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  413596358
+Last Applicant Committed:  558633798
+Last Applicant Committed:  601809413
+Last Applicant Committed:  605234199
+Last Applicant Committed:  622455429
+Last Applicant Committed:  622455429
+Last Applicant Committed:  050541305
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  104805028
+Last Applicant Committed:  453473705
+Last Applicant Committed:  185609319
+Last Applicant Committed:  255939983
+Last Applicant Committed:  334560393
+Last Applicant Committed:  383049720
+Last Applicant Committed:  513909858
+Last Applicant Committed:  517111438
+Last Applicant Committed:  524150237
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  446961157
+Last Applicant Committed:  685124211
+Last Applicant Committed:  002842824
+Last Applicant Committed:  054029477
+Last Applicant Committed:  058786828
+Last Applicant Committed:  060488080
+Last Applicant Committed:  150066287
+Last Applicant Committed:  256758234
+Last Applicant Committed:  264433011
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  279924021
+Last Applicant Committed:  286783570
+Last Applicant Committed:  293080469
+Last Applicant Committed:  303296845
+Last Applicant Committed:  333803383
+Last Applicant Committed:  429277296
+Last Applicant Committed:  464574489
+Last Applicant Committed:  466815809
+Last Applicant Committed:  521492328
+Last Applicant Committed:  563919463
+verifyTrueDuplicate=1 Update
+data[i][0]=L
+data[i][1]=DEPL
+data[i][2]=50000.0
+data[i][3]=0.0
+data[i][4]=34474504
+data[i][5]=0
+Last Applicant Updated:  573678987
+Last Applicant Committed:  610225388
+Last Applicant Committed:  302748300
+Last Applicant Committed:  302748300
+Last Applicant Committed:  316043098
+verifyTrueDuplicate=1 Update
+data[i][0]=L
+data[i][1]=DEPL
+data[i][2]=220000.0
+data[i][3]=0.0
+data[i][4]=45257182
+data[i][5]=0
+Last Applicant Updated:  043604145
+Last Applicant Committed:  054666017
+Last Applicant Committed:  062569443
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  062569443
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  120528877
+Last Applicant Committed:  132620138
+Last Applicant Committed:  030606639
+Last Applicant Committed:  110600799
+Last Applicant Committed:  136764103
+Last Applicant Committed:  136764103
+Last Applicant Committed:  144962625
+Last Applicant Committed:  157068548
+verifyTrueDuplicate=1 Update
+Last Applicant Updated:  186544780
+verifyTrueDuplicate=1 Update
+data[i][0]=L
+data[i][1]=SUPPL
+data[i][2]=244000.0
+data[i][3]=0.0
+data[i][4]=45257209
+data[i][5]=0
+Last Applicant Updated:  197726774
+Last Applicant Committed:  251136291
+Last Applicant Committed:  263832615
+Last Applicant Committed:  312809611
+Last Applicant Committed:  524356716
+Last Applicant Committed:  528313165
+Last Applicant Committed:  548639768
+Last Applicant Committed:  549773959
+verifyTrueDuplicate=2 Insert
+Last Applicant Committed:  608545065
+Last Applicant Committed:  614341330
+Last Applicant Committed:  615261113
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  377881099
+Last Applicant Committed:  571876205
+Last Applicant Committed:  614208377
+Last Applicant Committed:  081764674
+verifyTrueDuplicate=2 Insert
+Last Applicant Committed:  081764674
+Last Applicant Committed:  384279883
+Last Applicant Committed:  384279883
+Last Applicant Committed:  415049564
+Last Applicant Committed:  068605185
+Last Applicant Committed:  068605185
+Last Applicant Committed:  215234799
+Last Applicant Committed:  276845595
+Last Applicant Committed:  635583092
+Last Applicant Committed:  177780653
+Last Applicant Committed:  130549115
+Last Applicant Committed:  299721035
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  544086342
+Last Applicant Committed:  411915011
+Last Applicant Committed:  498740606
+Last Applicant Committed:  529114073
+Last Applicant Committed:  560979733
+Last Applicant Committed:  523832354
+Last Applicant Committed:  404656619
+Last Applicant Committed:  411134852
+Last Applicant Committed:  466788696
+Last Applicant Committed:  533840312
+Last Applicant Committed:  042700846
+Last Applicant Committed:  261812472
+Last Applicant Committed:  593360751
+Last Applicant Committed:  519961428
+Last Applicant Committed:  334741514
+Last Applicant Committed:  264136827
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  593303170
+Last Applicant Committed:  239658876
+Last Applicant Committed:  446765913
+Last Applicant Committed:  459607340
+Last Applicant Committed:  467177032
+Last Applicant Committed:  595017577
+Last Applicant Committed:  373110481
+Last Applicant Committed:  309906364
+Last Applicant Committed:  003761942
+Last Applicant Committed:  003761942
+Last Applicant Committed:  501865795
+Last Applicant Committed:  564511673
+Last Applicant Committed:  554117264
+verifyTrueDuplicate=2 Insert
+Last Applicant Committed:  551715542
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  624038049
+Last Applicant Committed:  515868303
+Last Applicant Committed:  612605484
+Last Applicant Committed:  092720216
+Last Applicant Committed:  220981569
+Last Applicant Committed:  215522149
+Last Applicant Committed:  218687318
+Last Applicant Committed:  195646603
+Last Applicant Committed:  218135261
+verifyTrueDuplicate=0 Kicks out
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  397629280
+Last Applicant Committed:  405782579
+Last Applicant Committed:  414513919
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  288602171
+Last Applicant Committed:  620669793
+Last Applicant Committed:  620669793
+Last Applicant Committed:  259710535
+Last Applicant Committed:  259710535
+Last Applicant Committed:  330902262
+Last Applicant Committed:  400514229
+Last Applicant Committed:  382250703
+verifyTrueDuplicate=2 Insert
+Last Applicant Committed:  274681846
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  410116731
+Last Applicant Committed:  441883393
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  454378238
+Last Applicant Committed:  476526350
+Last Applicant Committed:  490963634
+Last Applicant Committed:  541504828
+Last Applicant Committed:  562068913
+Last Applicant Committed:  397724310
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  632045511
+Last Applicant Committed:  511722803
+Last Applicant Committed:  621459006
+Last Applicant Committed:  339646176
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  268540084
+Last Applicant Committed:  264638509
+Last Applicant Committed:  264638590
+Last Applicant Committed:  338642269
+Last Applicant Committed:  152444754
+Last Applicant Committed:  390763624
+verifyTrueDuplicate=0 Kicks out
+verifyTrueDuplicate=1 Update
+data[i][0]=L
+data[i][1]=OPTL
+data[i][2]=50000.0
+data[i][3]=0.0
+data[i][4]=37265017
+data[i][5]=1
+data[i][0]=M
+data[i][1]=LTD
+data[i][2]=0.0
+data[i][3]=0.0
+data[i][4]=37265016
+data[i][5]=0
+data[i][0]=M
+data[i][1]=STD
+data[i][2]=0.0
+data[i][3]=0.0
+data[i][4]=37265018
+data[i][5]=2
+Last Applicant Updated:  415510346
+verifyTrueDuplicate=2 Insert
+Last Applicant Committed:  585591530
+Last Applicant Committed:  608803166
+Last Applicant Committed:  853846035
+Last Applicant Committed:  255295941
+Last Applicant Committed:  256330868
+verifyTrueDuplicate=1 Update
+data[i][0]=L
+data[i][1]=DEPL
+data[i][2]=250000.0
+data[i][3]=0.0
+data[i][4]=36155758
+data[i][5]=0
+Last Applicant Updated:  259213043
+Last Applicant Committed:  618946461
+Last Applicant Committed:  589680721
+Last Applicant Committed:  161569959
+Last Applicant Committed:  241472389
+Last Applicant Committed:  526334677
+Last Applicant Committed:  699096715
+Last Applicant Committed:  439417345
+Last Applicant Committed:  439417345
+Last Applicant Committed:  288906888
+verifyTrueDuplicate=0 Kicks out
+verifyTrueDuplicate=0 Kicks out
+verifyTrueDuplicate=0 Kicks out
+verifyTrueDuplicate=0 Kicks out
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  552675955
+Last Applicant Committed:  029607255
+Last Applicant Committed:  195460733
+Last Applicant Committed:  266593214
+Last Applicant Committed:  590608741
+Last Applicant Committed:  590168269
+Last Applicant Committed:  590168269
+Last Applicant Committed:  163688307
+Last Applicant Committed:  389801519
+Last Applicant Committed:  473273870
+Last Applicant Committed:  591234657
+Last Applicant Committed:  263934578
+Last Applicant Committed:  309063446
+Last Applicant Committed:  413378765
+Last Applicant Committed:  413378765
+Last Applicant Committed:  212846435
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  192406318
+Last Applicant Committed:  200559682
+Last Applicant Committed:  225907041
+Last Applicant Committed:  229218260
+Last Applicant Committed:  244025031
+Last Applicant Committed:  245063974
+Last Applicant Committed:  246040563
+Last Applicant Committed:  260974058
+Last Applicant Committed:  261945634
+Last Applicant Committed:  264679797
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  589506546
+Last Applicant Committed:  593698513
+Last Applicant Committed:  611542516
+Last Applicant Committed:  558858600
+Last Applicant Committed:  214849673
+Last Applicant Committed:  228678136
+Last Applicant Committed:  243236245
+Last Applicant Committed:  447982772
+Last Applicant Committed:  030428084
+Last Applicant Committed:  436231477
+Last Applicant Committed:  516964143
+Last Applicant Committed:  600241620
+Last Applicant Committed:  600241620
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  298465532
+Last Applicant Committed:  456294064
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  066805387
+Last Applicant Committed:  264755596
+Last Applicant Committed:  215253581
+Last Applicant Committed:  218041888
+Last Applicant Committed:  220761880
+Last Applicant Committed:  136861546
+Last Applicant Committed:  391727944
+Last Applicant Committed:  015580911
+Last Applicant Committed:  254415865
+Last Applicant Committed:  046621017
+verifyTrueDuplicate=2 Insert
+Last Applicant Committed:  402253786
+Last Applicant Committed:  553080578
+Last Applicant Committed:  237020276
+Last Applicant Committed:  436352972
+Last Applicant Committed:  515843612
+Last Applicant Committed:  032586587
+Last Applicant Committed:  036504847
+Last Applicant Committed:  065682765
+Last Applicant Committed:  110541347
+Last Applicant Committed:  116460104
+verifyTrueDuplicate=2 Insert
+Last Applicant Committed:  122484905
+Last Applicant Committed:  125547214
+verifyTrueDuplicate=0 Kicks out
+Last Applicant Committed:  138881644
+Last Applicant Committed:  149443916
+Last Applicant Committed:  149549679
+Last Applicant Committed:  188841664
+Last Applicant Committed:  189441809
+Last Applicant Committed:  191607877
+Last Applicant Committed:  191607877
+Last Applicant Committed:  197388483
+Last Applicant Committed:  209609737
+Last Applicant Committed:  231495064
+verifyTrueDuplicate=2 Insert
+Last Applicant Committed:  252218637
+verifyTrueDuplicate=2 Insert
+Died at D:\\StarTrak\\StarTrak\\MaestroScripts\\acsfeed\\pl_acsfeed.pl line 412.
+Last Applicant Committed:  253451928
+Last Applicant Committed:  258722905
+Last Applicant Committed:  261293775
+Last Applicant Committed:  269604660
+Died at D:\\StarTrak\\StarTrak\\MaestroScripts\\acsfeed\\pl_acsfeed.pl line 413.
+11-09-2017 03:40:53  -     :: | Error: 3303 | P_36628_6270 | 6275000150      36628    USGAAP_Input_Adj       Non-Controllable (local overhead)     Working               MNCL_6270        No_Channel       No_Product       P_36628_6270                USD_Constant_FCY        F_36628_6270   C_36628_6270   MTD      Projection_Oct FY20       Sep                934.13678543893
+Sat Nov 25 09:00:11 2017 - Start Script D:\\StarTrak\\StarTrak\\MaestroScripts\\acsfeed\\pl_acsfeed.pl
+Sat Nov 25 09:00:11 2017 - Set Environment
+Sat Nov 25 09:00:11 2017 - Set Date
+Sat Nov 25 09:00:11 2017 - FTP Login 1
+Sat Nov 25 09:00:11 2017 - FTP Get
+Sat Nov 25 09:00:13 2017 - FTP End Get
+Sat Nov 25 09:00:13 2017 - Remove original file
+Sat Nov 25 09:00:13 2017 - Remove Complete
+Sat Nov 25 09:00:13 2017 - Begin Java
+Sat Nov 25 09:06:58 2017 - The Java Process Returned an Error.
+===============================================================
+= Exit Status           : 9
+= System Time (Seconds) : 0     Elapsed Time (Minutes) : 6
+= User Time (Seconds)   : 0
+= Sat 11/25/17 09:06:58 Eastern Standard Time
+===============================================================
